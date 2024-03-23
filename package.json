@@ -1,0 +1,17 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "Integrated assignment 3 RESTful Web Service",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "normal": "node server.js"
+  },
+  "author": "Axel Escoto Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.0"
+  }
+}

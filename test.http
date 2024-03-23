@@ -1,0 +1,13 @@
+//Root endpoint test
+GET http://localhost:3101
+
+### ADMIN
+GET http://localhost:3101/api/product?minPrice=300&maxPrice=999&name=OLED
+x-auth: SUPERSECUREPASSWORD
+### NO ADMIN
+GET http://localhost:3101/api/product
+x-auth: HOLA
+
+
+###
+GET http://localhost:3101/api/cart

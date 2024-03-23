@@ -1,0 +1,62 @@
+[
+  {
+    "uuid": "1",
+    "imageUrl": "https://www.apple.com/iphone-13-pro/",
+    "name": "iPhone 13 Pro",
+    "description": "The iPhone 13 Pro is Apple's latest flagship smartphone featuring a stunning ProMotion display, powerful A15 Bionic chip, and advanced camera system.",
+    "unit": "1 unit",
+    "category": "Electronics",
+    "pricePerUnit": 999.0,
+    "stock": 100
+  },
+  {
+    "uuid": "2",
+    "imageUrl": "https://www.adidas.com/us/ultraboost-21-shoes",
+    "name": "Adidas Ultraboost 21 Running Shoes",
+    "description": "The Adidas Ultraboost 21 is engineered with primeblue, a high-performance recycled material made in part with Parley Ocean Plastic.",
+    "unit": "1 pair",
+    "category": "Footwear",
+    "pricePerUnit": 180.0,
+    "stock": 50
+  },
+  {
+    "uuid": "3",
+    "imageUrl": "https://www.samsung.com/us/televisions-home-theater/tvs/qled-4k-tvs/55",
+    "name": "Samsung 55-Inch QLED 4K Smart TV",
+    "description": "Experience the brilliance of QLED technology with the Samsung 55-Inch QLED 4K Smart TV. Enjoy stunning picture quality, intuitive smart features, and sleek design.",
+    "unit": "1 unit",
+    "category": "Electronics",
+    "pricePerUnit": 1299.99,
+    "stock": 75
+  },
+  {
+    "uuid": "4",
+    "imageUrl": "https://www.amazon.com/dp/B09M7RFLDV",
+    "name": "Nintendo Switch OLED Model",
+    "description": "The Nintendo Switch OLED Model features a vibrant 7-inch OLED screen, enhanced audio, and a wide adjustable stand for tabletop mode. Enjoy gaming in high definition wherever you go.",
+    "unit": "1 unit",
+    "category": "Electronics",
+    "pricePerUnit": 349.99,
+    "stock": 150
+  },
+  {
+    "uuid": "5",
+    "imageUrl": "https://www.nike.com/t/air-force-1-07-lv8-mens-shoe-Jb0FJ2/CU1457-600",
+    "name": "Nike Air Force 1 '07 LV8 Men's Shoe",
+    "description": "The Nike Air Force 1 '07 LV8 features premium leather, classic AF1 design, and a low-cut silhouette for a timeless look. Perfect for casual wear and street style.",
+    "unit": "1 pair",
+    "category": "Footwear",
+    "pricePerUnit": 110.0,
+    "stock": 80
+  },
+  {
+    "uuid": "6",
+    "imageUrl": "https://www.sony.com/electronics/televisions/xbr-a90j-series",
+    "name": "Sony BRAVIA XR MASTER Series A90J OLED 4K HDR Smart TV",
+    "description": "Experience unparalleled contrast with the Sony BRAVIA XR MASTER Series A90J OLED TV. Featuring Cognitive Processor XR, XR OLED Contrast, and XR Triluminos Pro, immerse yourself in lifelike picture quality and sound.",
+    "unit": "1 unit",
+    "category": "Electronics",
+    "pricePerUnit": 2999.99,
+    "stock": 60
+  }
+]
